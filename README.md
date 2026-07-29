@@ -28,7 +28,7 @@ Both ship as Python CLIs on the Claude API.
 
 ## Related
 
-- `ai-teaching-lab/essay-grader` — grading pipeline that pairs with this generator.
-- `ai-teaching-lab/course-materials` — the structured course-material data this tool can query for construct alignment.
+- `pennai-law/essay-grader` — grading pipeline that pairs with this generator.
+- `pennai-law/course-materials` — the structured course-material data this tool can query for construct alignment.
 - `Box: AI Teaching Lab/team/role-specs/03-exam-creation-tools.md` — role spec for the workstream lead.
 - `Box: AI Teaching Lab/workstreams/03-exam-tools/` — workstream home.
